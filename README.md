@@ -29,6 +29,10 @@ You can find the source code at:
 
 🔗 [https://github.com/torvalds/linux](https://github.com/torvalds/linux)
 
+or:
+
+🔗 [https://drive.google.com/file/d/19c2CZVVrxZmGtbZY-boRoTXQPTeTMljk/view](https://drive.google.com/file/d/19c2CZVVrxZmGtbZY-boRoTXQPTeTMljk/view))
+
 ---
 
 ## ⚙️ Configuration
