@@ -1,14 +1,39 @@
 # Zetuux Project
-Zetuux is an kernel based on latest 2025 June Linux kernel.
 
-# WARNING
-This is a bootable kernel, BUT! there is no filesystem/initramfs to boot it. If you boot it directly, you should get an kernel panic error.
+**Zetuux** is a custom Linux kernel, based on the **latest stable release as of June 2025**.
 
-# Install
-Install it on: https://linktr.ee/zetuux
+---
 
-# Source code
-Source code is on: https://github.com/torvalds/linux
+## ⚠️ Warning
 
-# Configuration
-We have configured our kernel via: ```make menuconfig``` with Makefile.
+> Zetuux is a **bootable kernel**, but it **does not include** a root filesystem or initramfs.  
+>  
+> Attempting to boot it directly will result in a **kernel panic**.
+
+To properly boot Zetuux, you must provide a compatible initramfs or root filesystem.
+
+---
+
+## 📥 Installation
+
+You can install or learn more about Zetuux through our official page:
+
+🔗 [https://linktr.ee/zetuux](https://linktr.ee/zetuux)
+
+---
+
+## 🧬 Source Code
+
+Zetuux is based on the official Linux kernel.  
+You can find the source code at:
+
+🔗 [https://github.com/torvalds/linux](https://github.com/torvalds/linux)
+
+---
+
+## ⚙️ Configuration
+
+The Zetuux kernel was configured using:
+
+```bash
+make menuconfig
