@@ -16,7 +16,7 @@ To properly boot Zetuux, you must provide a compatible initramfs or root filesys
 
 ## 📥 Installation
 
-You can install or learn more about Zetuux through our official page:
+You can install Zetuux through our official page:
 
 🔗 [Install here...](https://linktr.ee/zetuux)
 
@@ -27,7 +27,7 @@ You can install or learn more about Zetuux through our official page:
 Zetuux is based on the official Linux kernel.  
 You can find the source code at:
 
-🔗 [The Linux kernel](https://github.com/torvalds/linux)
+🔗 [The Linux kernel](https://www.kernel.org/)
 
 or:
 
@@ -40,4 +40,4 @@ or:
 The Zetuux kernel was configured using:
 
 ```bash
-make menuconfig
+make menuconfig```
