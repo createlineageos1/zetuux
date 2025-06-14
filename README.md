@@ -6,7 +6,7 @@
 
 ## ⚠️ Warning
 
-> Zetuux is a **bootable kernel**, but it **does not include** a root filesystem or initramfs.  
+> Zetuux bzImage is a **bootable kernel**, but it **does not include** a root filesystem or initramfs.  
 >  
 > Attempting to boot it directly will result in a **kernel panic**.
 
