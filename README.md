@@ -31,7 +31,7 @@ You can find the source code at:
 
 or:
 
-🔗 [Source code](https://drive.google.com/file/d/19c2CZVVrxZmGtbZY-boRoTXQPTeTMljk/view))
+🔗 [Source code](https://drive.google.com/file/d/19c2CZVVrxZmGtbZY-boRoTXQPTeTMljk/view)
 
 ---
 
