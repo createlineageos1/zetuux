@@ -2,7 +2,7 @@
 Zetuux is an kernel based on latest 2025 June Linux kernel.
 
 # WARNING
-This is a bootable kernel, BUT! there is no filesystem to boot it. If you boot it directly, you should get an kernel panic error.
+This is a bootable kernel, BUT! there is no filesystem/initramfs to boot it. If you boot it directly, you should get an kernel panic error.
 
 # Install
 Install it on: https://linktr.ee/zetuux
