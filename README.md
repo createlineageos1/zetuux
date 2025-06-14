@@ -18,7 +18,7 @@ To properly boot Zetuux, you must provide a compatible initramfs or root filesys
 
 You can install or learn more about Zetuux through our official page:
 
-🔗 [https://linktr.ee/zetuux](https://linktr.ee/zetuux)
+🔗 [Install here...](https://linktr.ee/zetuux)
 
 ---
 
@@ -27,11 +27,11 @@ You can install or learn more about Zetuux through our official page:
 Zetuux is based on the official Linux kernel.  
 You can find the source code at:
 
-🔗 [https://github.com/torvalds/linux](https://github.com/torvalds/linux)
+🔗 [The Linux kernel](https://github.com/torvalds/linux)
 
 or:
 
-🔗 [https://drive.google.com/file/d/19c2CZVVrxZmGtbZY-boRoTXQPTeTMljk/view](https://drive.google.com/file/d/19c2CZVVrxZmGtbZY-boRoTXQPTeTMljk/view))
+🔗 [Source code](https://drive.google.com/file/d/19c2CZVVrxZmGtbZY-boRoTXQPTeTMljk/view))
 
 ---
 
